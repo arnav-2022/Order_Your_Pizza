@@ -20,7 +20,7 @@ topping = [],
 pizza_order = dict()
 
 #Welcome message
-print('🍕🍕🍕WELCOME TO PIZZA CASA!!🍕🍕🍕\n')
+print('******************WELCOME TO PIZZA CASA!!******************\n')
 print('\nPIZZA TYPES:\n')
 
 #While loop for running program continuously until user enters no to end it
