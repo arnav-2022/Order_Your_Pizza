@@ -2,7 +2,7 @@
 pizza_type = {'DEEP-DISH' : 29, 'NEW-YORK STYLE': 25, 'MARGERITA': 22, 'PESTO ITALIAN': 26, 'BLACK HAM': 24, 'VEGGIE DELUXE': 23, 'BBQ CHICKEN' : 26}
 pizza_topping = {'PINEAPPLE': 0.50, 'BLACK OLIVES': 1, 'TOMATO': 1, 'ONION' : 0.75, 'PESTO': 1.25, 'FETA CHEESE' : 2, 'RED PEPPER': 1.5, 'GREEN PEPPER': 1.5, 'MUSHROOM': 1, 'JALEPENOS': 1.75}
 
-#Empty list for toppings
+#Empty list for toppings 
 topping = [], 
 
 #Empty dictionary for storing all the pizza orders with their total price
